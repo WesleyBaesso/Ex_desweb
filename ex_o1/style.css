@@ -1,0 +1,58 @@
+.head{
+    background-color: blue;
+}
+.rodape{
+    background-color: grey;
+}
+
+.estilo2{
+    font-family: arial;
+    color: green;
+    font-size: 16px;
+}
+
+.heroi{
+    width: 100px;
+    height: 100px;
+    border: solid black 5px
+}
+
+.link{
+    color: black;
+}
+
+.link:hover{
+    color: blue;
+}
+
+.vdd{
+    margin: 10px;
+    background-color: yellow;
+}
+
+.enviar{
+    background-color: blue;
+    color: white;
+    border-radius: 9px ;
+}
+
+.cab{
+    background-color: grey;
+    
+}
+
+.l{
+    color: red;
+}
+
+#b{
+    color: blue;
+}
+
+.form{
+    border: solid black 2px;
+}
+
+.bo{
+    background-color: green;
+}
