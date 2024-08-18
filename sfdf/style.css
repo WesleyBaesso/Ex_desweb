@@ -1,0 +1,198 @@
+.head{ 
+    background-color: blue;
+    text-align: center;
+    margin-bottom: 100px;
+    padding: 40px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.rodape{
+    background-color: grey;
+    padding: 40px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 690px;
+}
+
+.estilo2{
+    font-family: arial;
+    text-align: center;
+    color: green;
+    font-size: 16px;
+}
+
+.heroi{
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    border: solid black 5px
+}
+
+.link{
+    font-weight: bold;
+    color: black;
+}
+
+.link:hover{
+    color: blue;
+}
+
+.vdd{
+    margin: 10px;
+    background-color: yellow;
+}
+
+.enviar{
+    background-color: blue;
+    color: white;
+    display: block;
+    margin: 0 auto;
+    border-radius: 9px ;
+}
+
+ th, td{
+    border: solid 1px black;
+}
+.cab{
+    background-color: grey;
+    
+}
+
+table{
+    border-collapse: collapse ;
+}
+
+.l{
+    color: red;
+}
+
+#b{
+    color: blue;
+}
+
+.form{
+    border: solid black 2px;
+}
+
+.bo{
+    background-color: green;
+}
+
+.flexbox{
+    display: flex;
+    background-color: blue;
+}
+
+.flex{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+h1{
+    color: black;
+    font-family: arial;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2{
+    color: green;
+    font-family: verdana;
+    text-align: center;
+    font-size: 80px;
+}
+
+h3{
+    color: blueviolet;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.grid{
+    background-image: linear-gradient(blue, green) ;
+    padding: 500px;
+}
+
+.roxa{
+    color: violet;
+    margin: 10px;
+}
+
+.usu{
+    border-radius: 5px ;
+    box-shadow: 3px 2px;
+}
+
+.z{
+    background-color: rgb(172, 172, 172);
+}
+
+.card{
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: 200px;
+    padding: 100px;
+    border-radius: 10px;
+    box-shadow: 2px 3px;
+}
+
+.im{
+    border-radius: 10px;
+    box-shadow: 2px 3px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.h4{
+   text-align: center;
+}
+
+.ul{
+    max-width: 100px;
+    min-width: 100px;
+}
+
+.ul1:hover{
+    background-color: pink;
+}
+
+.ul2:hover{
+    background-color: blueviolet;
+}
+
+.ul3:hover{
+    background-color: aqua;
+}
+
+.ul4:hover{
+    background-color: chartreuse;
+}
+
+.radio{
+    border: solid 10px black;
+    background-color: rgb(185, 0, 31);
+}
+
+.checkbox{
+    box-shadow: 2px 3px;
+    color: orange;
+}
+
+.secao{
+    background-color: yellow;
+    border: solid;
+}
+
+p{
+    text-align: center;
+}
+
